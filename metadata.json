@@ -1,0 +1,6 @@
+{
+  "name": "Marvel News",
+  "description": "Marvel News - English news app featuring Home, News, Finance, Tech, Health, Digital Marketing, and Trending categories, with 2-minute reading coin rewards, and UPI withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
